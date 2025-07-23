@@ -37,7 +37,7 @@ To kick things off, I used a Linux VM on Google Cloud to authenticate with Kaggl
 
 ##  Exploratory Data Analysis (EDA)
 
-In the EDA portion of this project, I used PySpark to gain a foundational exploratory look at the dataset. Holistically, the dataset comprises a substantial 49,526,668 records. A quick statistical overview revealed some fun outliers: the user with the most Steam games owned had 33,345 games, and the longest recorded playtime clocked in at 97,317 hours—that’s over 4,000 days.
+In the EDA portion of this project, I used PySpark to gain a foundational exploratory look at the dataset. Holistically, the dataset comprises a substantial 113,883,717 records. A quick statistical overview revealed some fun outliers: the user with the most Steam games owned had 33,345 games, and the longest recorded playtime clocked in at 97,317 hours—that’s over 4,000 days.
 
 To better understand the dataset, I created a few very simple graphs.
 
