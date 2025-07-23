@@ -1,1 +1,0 @@
-My big data project uses a large Kaggle dataset containing Steam review data to find out what factors contribute the most to game review sentiment. Using a decision tree machine learning model, things like author playtime, number of games owned, and time of day reviews were made were analyzed to help predict review sentiment. 
